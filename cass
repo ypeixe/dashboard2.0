@@ -1,0 +1,34 @@
+{
+    "explorer.compactFolders": false,
+    "code-runner.runInTerminal": true,
+    "editor.fontSize": 16,
+    "code-runner.clearPreviousOutput": true,
+    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+    "editor.minimap.enabled": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "tabnine.experimentalAutoImports": true,
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "code-runner.executorMap": {
+        "python": "cls ; python -u",
+    },
+    "editor.fontFamily": "'Fira Code', Consolas, 'Dank Mono', 'Source Code Pro', 'Fira Code', Menlo, 'Inconsolata', 'Droid Sans Mono', 'DejaVu Sans Mono', 'Ubuntu Mono', 'Courier New', Courier, Monaco, monospace",
+    "terminal.integrated.fontFamily": "",
+    "editor.fontLigatures": false,
+    "[python]": {
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true,
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.fixAll": true,
+            "source.fixAll.unusedImports": true,
+            "source.organizeImports": true,
+            "code-runner.ignoreSelection": true,
+            "python.linting.mypyEnabled": true,
+            "python.testing.unittestEnabled": true,
+            "explorer.confirmDragAndDrop": false,
+        }
+    },
+    "workbench.startupEditor": "none",
+    
+}
